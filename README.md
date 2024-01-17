@@ -1,4 +1,4 @@
-# Bike Simulation Project
+# Bike Simulation
 
 Welcome to our "Bike Simulation" project! This project was developed as part of our "Computer Graphics" course using the C++ programming language. The simulation showcases a virtual bike riding experience with interactive controls.
 
