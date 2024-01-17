@@ -23,7 +23,7 @@ Our "Bike Simulation" project aims to create a visually engaging and interactive
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/bike-simulation.git
+   git clone https://github.com/nikhilgugwad/Bike-Simulation.git
    cd bike-simulation
 2. Open the project in the Code::Blocks editor.
 3. Build and compile the C++ code using Code::Blocks.
